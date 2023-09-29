@@ -1,0 +1,39 @@
+1_Future_Asteroids.csv - https://www.kaggle.com/datasets/abhinand05/future-asteroids-data
+
+2_Near_Earth_Asteroids.csv - https://www.kaggle.com/datasets/markmarkoh/near-earth-asteroids?select=all.csv
+
+3_all3 - No link
+
+4_Amerigeoss_see_what_you_can_use_Near-Earth_Comets_-_Orbital_Elements.csv - Amerigeoss link
+
+5_asteroid_diameter.csv - https://www.kaggle.com/datasets/armaanseth6702/asteroid-and-comet-diameter
+
+6_Asteroid_Updated.csv - https://www.kaggle.com/datasets/brsdincer/asteroid-classification-for-hazardous-prediction
+
+7_cneos_closeapproach_data.csv - https://www.kaggle.com/datasets/canthonyaustin/cneos-neo-earth-close-approaches?select=cneos_closeapproach_data.csv
+
+8_dataset.csv - https://www.kaggle.com/datasets/sakhawat18/asteroid-dataset
+
+9_nasa.csv - https://www.kaggle.com/datasets/shrutimehta/nasa-asteroids-classification?resource=download
+
+10_NASA_Near-Earth_Objects.csv - https://www.kaggle.com/datasets/adityaramachandran27/nasa-near-earth-objects-information
+
+11_Near-Earth_Asteroids_(NEAs) - https://www.kaggle.com/datasets/kazushiadachi/nearearth-asteroids-19002022
+
+12_NEOS-Close-Approach-Data - No link
+
+13_NEO_Earth_Close_Approaches - https://www.kaggle.com/datasets/pedroclapers/near-earth-objects-1900-to-2200
+
+14_neo_v2 - https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects
+
+15_orbits.csv - https://www.kaggle.com/datasets/nasa/asteroid-impacts?select=orbits.csv
+
+16_orbits_-_orbits - https://www.kaggle.com/datasets/shrushtijoshi/asteroid-impacts 
+
+17pha_use_only_NEA_class.csv - https://www.kaggle.com/datasets/vipulgote4/hazardous-asteroid-orbits
+
+18_sbdb_query_results - Need to search link
+
+19_vizier_votable1.csv - Vizier link
+
+20_vizier_votable2 - Vizier Link

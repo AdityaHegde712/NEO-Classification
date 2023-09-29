@@ -1,0 +1,37 @@
+1_Future_Asteroids.csv - All are NEAs, all potentially hazardous, what the hell do I do. I need to use this as well to train "positive NEA" side. Seeing that I have a sharp low of samples of hazardous nea's, I need to use this.
+
+2_Near_Earth_Asteroids.csv - Compatible with and similar description to 1
+
+3_all3 - Compatible with previous 2
+
+4_Amerigeoss_...csv -  I can seemingly use nothing, there is no classification as to whether all the objects are NEOs, and all the aphelions are very very incomplete.
+
+5_asteroid_diameter.csv - 1.2k NEOs vs 304k Non-NEOs, kill me. I don't know if I can even use this. There's also pha, potentially hazardous object, I'll need to take a subset of the objects that are NEOs and see if they're hazardous. This needs a LOT of work, but I'll do that.
+
+6_Asteroid_Updated.csv - Has neo and pha attributes, compatible with previous, great stuff, might be able to combine the dataframes, take uniques, and then process accordingly.
+
+7_cneos_closeapproach_data.csv - All NEOs, can manually add a label with all true, use attributes to train the positive side I suppose.
+
+8_dataset.csv - Son of a bitch it's 445 mb. This is trauma re-living itself. But anyways, it's usable for NEO classification itself. Highly imbalanced with just 153k NEOs vs 935k Non-NEOs. Great attributes to be fair, very usable, high data density and very little missing data. Yay.
+
+9_nasa.csv - ALL NEOs, 1:5 ratio of hazardous to non-hazardous, needs lots of preprocessing and correlation analysis between the label and everything else. Then we use the highest correlation attributes to predict. FUCK YES I'M SO BRILLIANT SOMETIMES WHEN I'M IN THE ZONE. Anyways class imbalance needs to be taken care of, encoding needed for some features, but luckily majority are numerical. Yay.
+
+10_NASA_Near-Earth_Objects.csv - All NEOs, apollo or amor classification, very good attributes, potential hazard label exists, we can definitely work with this and use it. 
+
+11_Near-Earth_Asteroids_(NEAs) - Unusable, just has numbers of different types of NEAs and NEOs on specific dates.
+
+12_NEOS-Close-Approach-Data - All seem positive again, good attributes, create positive label and train I suppose. Would help considering we have bloody minor sets of samples of positive NEOs.
+
+13_NEO_Earth_Close_Approaches - Same as previous
+
+14_neo_v2 - Purely hazardous and non-hazardous classification for all NEOs. Good attributes. Usable with a little modification.
+
+15_orbits.csv - Has both hazardous and non-hazardous, all NEOs, huge imbalance of 1:15 ratio of hazardous to non-hazardous, will need processing. Also, classification needs to become binary. So main tasks are feature engineering and imbalance engineering. Also need to compare attributes for figuring this shit out.
+
+16_orbits_-_orbits - Amor Apollo classification for all NEOs, good data that's more related to orbits rather than the asteroid and its properties itself. Need to look into how I might be able to use it well, but not looking great in terms of compatibility with the other datasets.
+
+17pha_use_only_NEA_class.csv - turns out all of the entries are for NEOs, which is great. This can purely be used for training the "hazardous" label. All of these are hazardous NEOs.
+
+18_sbdb_query_results - Hilariously empty, I think I've re-processed it and made it better. I don't think we'd need this, but for the record it's the type with neo and pha classification attributes. It's good but needs a LOT of work if usable. 
+
+19_vizier_votable1.csv, 20_vizier_votable2 - Need to see what it has to offer, idk if these are all NEOs, but the value density is great.
