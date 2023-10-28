@@ -10,7 +10,7 @@
 
 6_Asteroid_Updated.csv - https://www.kaggle.com/datasets/brsdincer/asteroid-classification-for-hazardous-prediction
 
-7_cneos_closeapproach_data.csv - https://www.kaggle.com/datasets/canthonyaustin/cneos-neo-earth-close-approaches?select=cneos_closeapproach_data.csv
+7_cneos_closeapproach_data.csv (now renamed to data_final) - https://www.kaggle.com/datasets/canthonyaustin/cneos-neo-earth-close-approaches?select=cneos_closeapproach_data.csv
 
 8_dataset.csv - https://www.kaggle.com/datasets/sakhawat18/asteroid-dataset
 
