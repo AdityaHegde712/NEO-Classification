@@ -1,4 +1,4 @@
-Object,Close-Approach (CA) Date,CA Distance Nominal (LD | au),CA Distance Minimum (LD | au),V relative (km/s),V infinity (km/s),H (mag),Estimated Diameter,
+Object,Close-Approach (CA) Date,CA DistanceNominal (au),CA DistanceMinimum (au),V relative(km/s),V infinity(km/s),H(mag),Diameter,
 (2020 NO),2020-Jul-22 04:29 ± < 00:01,2.04 | 0.00523,2.03 | 0.00522,7.65,7.58,26.6,13 m -   28 m,bK20N00O
 (2020 OG1),2020-Jul-23 06:09 ± < 00:01,10.35 | 0.02659,10.29 | 0.02644,11.49,11.48,24.6,32 m -   72 m,bK20O01G
 (2020 ON),2020-Jul-23 14:00 ± < 00:01,13.58 | 0.03490,13.51 | 0.03472,17.41,17.41,23.7,48 m -  110 m,bK20O00N
