@@ -1,0 +1,58 @@
+Attributes: 9
+ad_cneos_closeapproach_data:	['Object', 'Close-Approach (CA) Date', 'CA Distance Nominal (LD | au)', 'CA Distance Minimum (LD | au)', 'V relative (km/s)', 'V infinity (km/s)', 'H (mag)', 'Estimated Diameter', '']
+al_NEO_Earth_Close_Approaches:	['Object', 'Close-Approach (CA) Date', 'CA DistanceNominal (au)', 'CA DistanceMinimum (au)', 'V relative(km/s)', 'V infinity(km/s)', 'H(mag)', 'Diameter', 'Rarity']
+DONE
+
+Attributes: 10
+af_Future_Asteroids:	['Object', 'Close-Approach (CA) Date\xa0(TDB)YYYY-mmm-DD HH:MM ± D_HH:MM', 'CA DistanceNominal(LD/AU)', 'CA DistanceMinimum(LD/AU)', 'Vrelative(km/s)', 'Vinfinity(km/s)', 'Nsigma', 'H(mag)', 'ref', 'class']
+aj_Near_Earth_Asteroids:['Object', 'Close-Approach (CA) Date\xa0(TDB)YYYY-mmm-DD HH:MM ± D_HH:MM', 'CA DistanceNominal(LD/AU)', 'CA DistanceMinimum(LD/AU)', 'Vrelative(km/s)', 'Vinfinity(km/s)', 'Nsigma', 'H(mag)', 'ref', 'class']
+am_neo_v2:['id', 'name', 'est_diameter_min', 'est_diameter_max', 'relative_velocity', 'miss_distance', 'orbiting_body', 'sentry_object', 'absolute_magnitude', 'hazardous']
+
+
+Attributes: 12
+ai_Near-Earth_Asteroids_(NEAs):	['Date', 'NEC', 'Atira', 'Aten', 'Apollo', 'Amor', 'PHA-km', 'PHA', 'NEA-km', 'NEA-140m', 'NEA', 'NEO']
+ak_NEOS-Close-Approach-Data:	['des', 'orbit_id', 'jd', 'cd', 'dist', 'dist_min', 'dist_max', 'v_rel', 'v_inf', 't_sigma_f', 'h', 'fullname']
+
+
+Attributes: 15
+an_orbits:	['Object Name', 'Object Classification', 'Epoch (TDB)', 'Orbit Axis (AU)', 'Orbit Eccentricity', 'Orbit Inclination (deg)', 'Perihelion Argument (deg)', 'Node Longitude (deg)', 'Mean Anomoly (deg)', 'Perihelion Distance (AU)', 'Aphelion Distance (AU)', 'Orbital Period (yr)', 'Minimum Orbit Intersection Distance (AU)', 'Orbital Reference', 'Asteroid Magnitude']
+
+
+Attributes: 16
+ao_orbits_-_orbits:	['Object Name', 'Epoch (TDB)', 'Orbit Axis (AU)', 'Orbit Eccentricity', 'Orbit Inclination (deg)', 'Perihelion Argument (deg)', 'Node Longitude (deg)', 'Mean Anomoly (deg)', 'Perihelion Distance (AU)', 'Aphelion Distance (AU)', 'Orbital Period (yr)', 'Minimum Orbit Intersection Distance (AU)', 'Orbital Reference', 'Asteroid Magnitude', 'Classification', 'Hazardous']
+ap_pha_use_only_NEA_class:	['Object', 'Epoch (TDB)', 'a (AU)', 'e', 'i (deg)', 'w (deg)', 'Node (deg)', 'M (deg)', 'q (AU)', 'Q (AU)', 'P (yr)', 'H (mag)', 'MOID (AU)', 'ref', 'class', 'Object']
+
+
+Attributes: 17
+aa_Amerigeoss_see_what_you_can_use_Near-Earth_Comets_-_Orbital_Elements:	['Object', 'Epoch (TDB)', 'TP (TDB)', 'e', 'i (deg)', 'w (deg)', 'Node (deg)', 'q (AU)', 'Q (AU)', 'P (yr)', 'MOID (AU)', 'A1 (AU/d^2)', 'A2 (AU/d^2)', 'A3 (AU/d^2)', 'DT (d)', 'ref', 'Object_name']
+
+
+Attributes: 18
+ah_NASA_Near-Earth_Objects:	['', 'id', 'neo_reference_id', 'name', 'name_limited', 'designation', 'absolute_magnitude_h', 'is_potentially_hazardous_asteroid', 'is_sentry_object', 'kilometers_estimated_diameter_min', 'kilometers_estimated_diameter_max', 'orbit_id', 'orbit_class_type', 'perihelion_distance', 'aphelion_distance', 'first_observation_date', 'last_observation_date', 'orbit_class_description']
+
+
+Attributes: 23
+as_vizier_votable2:	['recno', 'Name', 'Date', 'Time', 'RAdeg', 'DEdeg', 'length', 'angle', 'sigma', 'mag', 'snr', 'seeing', 'Inst', 'Filter', 'ExpTime', 'predRA', 'predDE', 'preda', 'predb', 'predlength', 'predangle', 'predmag', 'predsn']
+
+
+Attributes: 31
+ac_Asteroid_Updated:	['name', 'a', 'e', 'i', 'om', 'w', 'q', 'ad', 'per_y', 'data_arc', 'condition_code', 'n_obs_used', 'H', 'neo', 'pha', 'diameter', 'extent', 'albedo', 'rot_per', 'GM', 'BV', 'UB', 'IR', 'spec_B', 'spec_T', 'G', 'moid', 'class', 'n', 'per', 'ma']
+
+
+Attributes: 40
+ag_nasa:	['Neo Reference ID', 'Name', 'Absolute Magnitude', 'Est Dia in KM(min)', 'Est Dia in KM(max)', 'Est Dia in M(min)', 'Est Dia in M(max)', 'Est Dia in Miles(min)', 'Est Dia in Miles(max)', 'Est Dia in Feet(min)', 'Est Dia in Feet(max)', 'Close Approach Date', 'Epoch Date Close Approach', 'Relative Velocity km per sec', 'Relative Velocity km per hr', 'Miles per hour', 'Miss Dist.(Astronomical)', 'Miss Dist.(lunar)', 'Miss Dist.(kilometers)', 'Miss Dist.(miles)', 'Orbiting Body', 'Orbit ID', 'Orbit Determination Date', 'Orbit Uncertainity', 'Minimum Orbit Intersection', 'Jupiter Tisserand Invariant', 'Epoch Osculation', 'Eccentricity', 'Semi Major Axis', 'Inclination', 'Asc Node Longitude', 'Orbital Period', 'Perihelion Distance', 'Perihelion Arg', 'Aphelion Dist', 'Perihelion Time', 'Mean Anomaly', 'Mean Motion', 'Equinox', 'Hazardous']
+
+
+Attributes: 45
+ae_dataset:	['id', 'spkid', 'full_name', 'pdes', 'name', 'prefix', 'neo', 'pha', 'H', 'diameter', 'albedo', 'diameter_sigma', 'orbit_id', 'epoch', 'epoch_mjd', 'epoch_cal', 'equinox', 'e', 'a', 'q', 'i', 'om', 'w', 'ma', 'ad', 'n', 'tp', 'tp_cal', 'per', 'per_y', 'moid', 'moid_ld', 'sigma_e', 'sigma_a', 'sigma_q', 'sigma_i', 'sigma_om', 'sigma_w', 'sigma_ma', 'sigma_ad', 'sigma_n', 'sigma_tp', 'sigma_per', 'class', 'rms']
+ar_vizier_votable1:	['recno', 'Name', 'Date', 'Time', 'RAdeg', 'DEdeg', 'length', 'angle', 'sigma', 'mag', 'snr', 'seeing', 'Inst', 'Filter', 'ExpTime', 'predRA', 'predDE', 'preda', 'predb', 'predlength', 'predangle', 'predmag', 'predsn', ' ', ' ', '"Y:M:D"', ' ', 'deg', 'deg', 'arcsec', 'deg', 'arcsec', 'mag', ' ', 'arcsec', ' ', ' ', 's', 'deg', 'deg', 'arcsec', 'arcsec', 'arcsec', 'deg', 'mag']
+
+
+Attributes: 58
+ab_asteroid_diameter:	['full_name', 'a', 'e', 'i', 'om', 'w', 'q', 'ad', 'per_y', 'data_arc', 'condition_code', 'n_obs_used', 'H', 'spkid', 'pdes', 'name', 'neo', 'pha', 'sats', 'G', 'diameter', 'albedo', 'rot_per', 'BV', 'UB', 'spec_B', 'spec_T', 'diameter_sigma', 'orbit_id', 'epoch', 'epoch_mjd', 'epoch_cal', 'equinox', 'ma', 'n', 'tp', 'tp_cal', 'per', 'moid', 'moid_ld', 'moid_jup', 't_jup', 'sigma_e', 'sigma_a', 'sigma_q', 'sigma_i', 'sigma_om', 'sigma_w', 'sigma_ma', 'sigma_ad', 'sigma_n', 'sigma_tp', 'sigma_per', 'class', 'producer', 'first_obs', 'last_obs', 'rms']
+
+
+Attributes: 79
+aq_sbdb_query_results:	['spkid', 'full_name', 'pdes', 'name', 'prefix', 'neo', 'pha', 'sats', 'H', 'G', 'M1', 'M2', 'K1', 'K2', 'PC', 'diameter', 'extent', 'albedo', 'rot_per', 'GM', 'BV', 'UB', 'IR', 'spec_B', 'spec_T', 'H_sigma', 'diameter_sigma', 'orbit_id', 'epoch', 'epoch_mjd', 'epoch_cal', 'equinox', 'e', 'a', 'q', 'i', 'om', 'w', 'ma', 'ad', 'n', 'tp', 'tp_cal', 'per', 'per_y', 'moid', 'moid_ld', 'moid_jup', 't_jup', 'sigma_e', 'sigma_a', 'sigma_q', 'sigma_i', 'sigma_om', 'sigma_w', 'sigma_ma', 'sigma_ad', 'sigma_n', 'sigma_tp', 'sigma_per', 'class', 'producer', 'data_arc', 'first_obs', 'last_obs', 'n_obs_used', 'n_del_obs_used', 'n_dop_obs_used', 'condition_code', 'rms', 'two_body', 'A1', 'A1_sigma', 'A2', 'A2_sigma', 'A3', 'A3_sigma', 'DT', 'DT_sigma']
+
+

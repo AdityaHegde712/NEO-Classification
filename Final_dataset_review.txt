@@ -1,0 +1,11 @@
+ad_cneos_closeapproach_data_final - All NEOs, PHA Classification
+af_Future_Asteroids - All NEOs, PHA classification
+ag_nasa - All NEOs, PHA classification
+ah - NEOs, PHA classification
+ai - Unclear
+ak - NEOs, no class, need to find class
+am - PHA Classification, unsupervised NEO classification
+an - All NEOs, unsupervised PHA classification
+ao - All NEOs, PHA classification
+ap - All NEOs, PHA classification
+aq - All NEOs, unsupervised PHA classification
