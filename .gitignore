@@ -1,5 +1,6 @@
-datasets/*_Asteroid_Updated.csv
-datasets/*_dataset.csv
+*/*_Asteroid_Updated*.csv
+*/*_dataset*.csv
+*/*_asteroid_diameter_*.csv
 Model testing/x_traina.csv
 Model testing/y_traina.csv
 Model testing/x_test.csv

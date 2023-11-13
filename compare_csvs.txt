@@ -9,27 +9,21 @@ aj_Near_Earth_Asteroids:['Object', 'Close-Approach (CA) Date\xa0(TDB)YYYY-mmm-DD
 am_neo_v2:['id', 'name', 'est_diameter_min', 'est_diameter_max', 'relative_velocity', 'miss_distance', 'orbiting_body', 'sentry_object', 'absolute_magnitude', 'hazardous']
 DONE
 
-Attributes: 12
-af_Near-Earth_Asteroids_(NEAs):	['Date', 'NEC', 'Atira', 'Aten', 'Apollo', 'Amor', 'PHA-km', 'PHA', 'NEA-km', 'NEA-140m', 'NEA', 'NEO']
-ag_NEOS-Close-Approach-Data:	['des', 'orbit_id', 'jd', 'cd', 'dist', 'dist_min', 'dist_max', 'v_rel', 'v_inf', 't_sigma_f', 'h', 'fullname']
-
-
 Attributes: 15
-aj_orbits:	['Object Name', 'Object Classification', 'Epoch (TDB)', 'Orbit Axis (AU)', 'Orbit Eccentricity', 'Orbit Inclination (deg)', 'Perihelion Argument (deg)', 'Node Longitude (deg)', 'Mean Anomoly (deg)', 'Perihelion Distance (AU)', 'Aphelion Distance (AU)', 'Orbital Period (yr)', 'Minimum Orbit Intersection Distance (AU)', 'Orbital Reference', 'Asteroid Magnitude']
-
+ah_orbits:	['Object Name', 'Object Classification', 'Epoch (TDB)', 'Orbit Axis (AU)', 'Orbit Eccentricity', 'Orbit Inclination (deg)', 'Perihelion Argument (deg)', 'Node Longitude (deg)', 'Mean Anomoly (deg)', 'Perihelion Distance (AU)', 'Aphelion Distance (AU)', 'Orbital Period (yr)', 'Minimum Orbit Intersection Distance (AU)', 'Orbital Reference', 'Asteroid Magnitude']
+DONE
 
 Attributes: 16
-ah_orbits_-_orbits:	['Object Name', 'Epoch (TDB)', 'Orbit Axis (AU)', 'Orbit Eccentricity', 'Orbit Inclination (deg)', 'Perihelion Argument (deg)', 'Node Longitude (deg)', 'Mean Anomoly (deg)', 'Perihelion Distance (AU)', 'Aphelion Distance (AU)', 'Orbital Period (yr)', 'Minimum Orbit Intersection Distance (AU)', 'Orbital Reference', 'Asteroid Magnitude', 'Classification', 'Hazardous']
-ak_pha_use_only_NEA_class:	['Object', 'Epoch (TDB)', 'a (AU)', 'e', 'i (deg)', 'w (deg)', 'Node (deg)', 'M (deg)', 'q (AU)', 'Q (AU)', 'P (yr)', 'H (mag)', 'MOID (AU)', 'ref', 'class', 'Object']
-
+ai_orbits_-_orbits:	['Object Name', 'Epoch (TDB)', 'Orbit Axis (AU)', 'Orbit Eccentricity', 'Orbit Inclination (deg)', 'Perihelion Argument (deg)', 'Node Longitude (deg)', 'Mean Anomoly (deg)', 'Perihelion Distance (AU)', 'Aphelion Distance (AU)', 'Orbital Period (yr)', 'Minimum Orbit Intersection Distance (AU)', 'Orbital Reference', 'Asteroid Magnitude', 'Classification', 'Hazardous']
+DONE
 
 Attributes: 18
 ae_NASA_Near-Earth_Objects:	['', 'id', 'neo_reference_id', 'name', 'name_limited', 'designation', 'absolute_magnitude_h', 'is_potentially_hazardous_asteroid', 'is_sentry_object', 'kilometers_estimated_diameter_min', 'kilometers_estimated_diameter_max', 'orbit_id', 'orbit_class_type', 'perihelion_distance', 'aphelion_distance', 'first_observation_date', 'last_observation_date', 'orbit_class_description']
-
+DONE
 
 Attributes: 31
 ab_Asteroid_Updated:	['name', 'a', 'e', 'i', 'om', 'w', 'q', 'ad', 'per_y', 'data_arc', 'condition_code', 'n_obs_used', 'H', 'neo', 'pha', 'diameter', 'extent', 'albedo', 'rot_per', 'GM', 'BV', 'UB', 'IR', 'spec_B', 'spec_T', 'G', 'moid', 'class', 'n', 'per', 'ma']
-
+DONE
 
 Attributes: 40
 ad_nasa:	['Neo Reference ID', 'Name', 'Absolute Magnitude', 'Est Dia in KM(min)', 'Est Dia in KM(max)', 'Est Dia in M(min)', 'Est Dia in M(max)', 'Est Dia in Miles(min)', 'Est Dia in Miles(max)', 'Est Dia in Feet(min)', 'Est Dia in Feet(max)', 'Close Approach Date', 'Epoch Date Close Approach', 'Relative Velocity km per sec', 'Relative Velocity km per hr', 'Miles per hour', 'Miss Dist.(Astronomical)', 'Miss Dist.(lunar)', 'Miss Dist.(kilometers)', 'Miss Dist.(miles)', 'Orbiting Body', 'Orbit ID', 'Orbit Determination Date', 'Orbit Uncertainity', 'Minimum Orbit Intersection', 'Jupiter Tisserand Invariant', 'Epoch Osculation', 'Eccentricity', 'Semi Major Axis', 'Inclination', 'Asc Node Longitude', 'Orbital Period', 'Perihelion Distance', 'Perihelion Arg', 'Aphelion Dist', 'Perihelion Time', 'Mean Anomaly', 'Mean Motion', 'Equinox', 'Hazardous']
